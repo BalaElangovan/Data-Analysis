@@ -8,5 +8,7 @@ Each project within this repository is contained in its separate folder, ensurin
 Each project folder is a standalone analysis project and includes:
 
 dataset/: This directory contains the dataset(s) used in the project.
+
 notebooks/: Jupyter notebooks or Python scripts with the complete code for data analysis.
+
 README.md: A detailed explanation of the project, dataset, analysis performed, and key findings.
