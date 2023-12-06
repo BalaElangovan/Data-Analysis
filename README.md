@@ -4,21 +4,7 @@ This repository is a comprehensive collection of various data analysis tasks per
 
 Each project within this repository is contained in its separate folder, ensuring a structured and organized approach. Every piece of analysis is accompanied by detailed code and thorough explanations, making it easy to understand and replicate.
 
-## Repository Structure
-Data-Analysis/
-│
-├── [Project Folder 1]/
-│   ├── dataset/
-│   ├── notebooks/
-│   └── README.md
-│
-├── [Project Folder 2]/
-│   ├── data/
-│   ├── notebooks/
-│   └── README.md
-│
-
-Project Folders
+## Project Folders
 Each project folder is a standalone analysis project and includes:
 
 dataset/: This directory contains the dataset(s) used in the project.
